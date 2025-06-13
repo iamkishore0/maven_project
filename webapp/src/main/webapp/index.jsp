@@ -12,8 +12,8 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>karthik</h2>
-            <p>canada</p>
+            <h2>Kiran</h2>
+            <p>USA</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
             <a href="#"><i class="fab fa-github"></i></a>
