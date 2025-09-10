@@ -12,7 +12,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>Kiran</h2>
+            <h2>durga rao</h2>
             <p>USA</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
@@ -38,4 +38,5 @@
     </div>
 </body>
 </html>
+
 
